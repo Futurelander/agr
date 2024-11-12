@@ -29,7 +29,9 @@
     counter: null
 - WB + lagstop FDC to Magnesis:
      notes: Tower WB .link([tutorial]https://www.youtube.com/watch?v=98NlOBfMDWU)
-
+- DLC Ruby:
+    icon: chest
+    icon-map: null
 - _Shrine::OmanAu:
     counter: null
 - BLSS + Tree WB to Stasis:
