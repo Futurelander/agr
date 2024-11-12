@@ -1,0 +1,51 @@
+# Standard BMSC Plateau Route
+- .!!(SoR Clip get ToD):
+    icon: sor
+
+- _Equipment::Weapon<Tree Branch>:
+   icon-map: null
+
+-  Run to .loc(Boko Camp)
+- _Equipment::Shield<Pot Lid>:
+    coord: [-952.34, 238.33, 1959.44]
+    icon-map: null
+    
+- 6 peppers and 3 shrooms:
+    notes: Save 3 Shroom and 3 Pepper for IST
+
+- Surf to .loc(Temple of Time):
+    notes: Shield Clip
+- _Chest<Traveler's Bow>:
+    coord: [-832.43, 222.00, 1963.11]
+- _Material<5 Arrow>:
+    icon-map: null
+    comment:
+
+- BLSS to Bombs
+- _Shrine::JaBaij:
+    counter: null
+- BLSS to Tower
+- _Tower::GreatPlateau:
+    counter: null
+- WB + lagstop FDC to Magnesis:
+     notes: Tower WB .link([tutorial]https://www.youtube.com/watch?v=98NlOBfMDWU)
+
+- _Shrine::OmanAu:
+    counter: null
+- BLSS + Tree WB to Stasis:
+    coord: [-839, 2273.5]
+- _Equipment::Weapon<Hammer>:
+   icon-map: null
+   comment: Inside stasis
+- _Shrine::OwaDaim:
+    counter: null
+
+- Boulder Launch + BLSS to Cryonis:
+   notes: 3 Hammer Hits on Boulder
+- _Shrine::KehNamut:
+    counter: null
+
+- BLSS to ToT
+- Paraglider:
+    icon: king
+    coord: [-809.33, 263.58, 1964.35]

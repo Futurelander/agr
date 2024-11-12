@@ -1,0 +1,52 @@
+- .yellow(<N):
+    color: yellow
+    coord: [-3870.5,-2306.75]
+- .yellow(Gold Rupee):
+    counter: .yellow(26)
+    icon: gloddy
+    notes: Bottom of Flight Range
+- Fly up using updraft
+- .yellow(E) + .yellow(<E):
+    coord: [-3461,-2238]
+- .yellow(Gold Rupee):
+    counter: .yellow(27)
+    icon: gloddy
+    notes: Magnesis buried chest
+- .yellow(E) + .yellow(E):
+    coord: [-2635,-2058]
+- Enter .loc(Lanno Kooh):
+    icon: shrine
+    icon-map: null
+- .yellow(Gold Rupee):
+    counter: .yellow(28)
+    icon: gloddy
+    notes: Blessing chest
+- _Warp::Shrine::LannoKooh:
+    counter: null
+- BLSS:
+    coord: [-1492,-1472]
+- Activate .loc(Monya Toma):
+    icon: warp
+- .yellow(<N) to .loc(Serenne Stable):
+    coord: [-1543,-1802.875]
+- .yellow(Gold Rupee):
+    counter: .yellow(29)
+    icon: gloddy
+    notes: Talk to 3 brothers to complete Leviathan Bones Quest
+- Feed black dog 4 apples
+- .yellow(Gold Rupee):
+    counter: .yellow(30)
+    icon: gloddy
+    notes: Dog treasure :)
+    coord: [-1544.25,-1749]
+- .yellow(N>) turn to .loc(Forgotten Temple):
+    coord: [-1429,-2256.5]
+- Square first:
+    notes: Land in trench under second updraft
+- .yellow(Gold Rupee):
+    counter: .yellow(31)
+    icon: gloddy
+    notes: Chest in small tunnel
+    coord: [-1311.5,-2411]
+- _Warp::Shrine::MonyaToma:
+    counter: null

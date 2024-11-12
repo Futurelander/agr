@@ -1,0 +1,69 @@
+- BLSS to .loc(Hyrule Castle Docks):
+    color: lime
+    coord: [-313.75,-1139.25]
+- Run to second dock:
+    coord: [-207.5,-1162.5]
+- .yellow(Gold Rupee):
+    counter: .yellow(32)
+    icon: gloddy
+    notes: Magnesis underwater chest
+- Run to .loc(King's Study):
+    coord: [-172,-1112]
+- _Equipment::Shield<Royal Guard's Shield>
+- .yellow(Gold Rupee):
+    counter: .yellow(33)
+    icon: gloddy
+    notes: King's Study chest
+- WB out of library:
+    coord: [-157,-1043.5]
+- .yellow(S) midair:
+    coord: [-65.5,-1036.5]
+- .yellow(Gold Rupee):
+    counter: .yellow(34)
+    icon: gloddy
+    notes: Break rocks
+    coord: [-30.5,-876.5]
+- .yellow(E) + .yellow(S>)
+- .yellow(Gold Rupee):
+    counter: .yellow(35)
+    icon: gloddy
+    notes: Magnesis moat chest
+    coord: [-115,-613]
+- Make night if not already
+- .yellow(E) + .yellow(<E) + .yellow(E) midair:
+    coord: [722,-738]
+- Kill stalmoblin with EoD
+- _Equipment::Weapon<Moblin Club>:
+    notes: Not spiked
+- .yellow(E>)
+- Kill fire wizzrobe:
+    notes: Shoot ice arrow
+    coord: [958.75,-594.5]
+- _Equipment::Weapon<Fire Rod>
+- .yellow(<N):
+    coord: [760,-824]
+- Enter .loc(Namika Ozz):
+    icon: shrine
+    icon-map: null
+- Kill ToS guardian:
+    notes: Shoot with ancient arrows
+- _Equipment::Weapon<Ancient Battle Axe+>:
+    icon-map: null
+- _Equipment::Weapon<Frost Spear>:
+    icon: chest
+    notes: In chest at the end
+- _Warp::Shrine::DahHesho:
+    counter: null
+    color: cyan
+- .yellow(N>):
+    coord: [3981,-1599.5]
+- Listen to .lime(Ruli's) conversation
+- _Cook<Monster Cake>:
+    notes: monster extract, wheat, butter, sugar
+- _Tod::Morning
+- .yellow(Gold Rupee):
+    counter: .yellow(36)
+    icon: gloddy
+    notes: Give Ruli the monster cake
+- _Warp::Shrine::TalohNaeg:
+    counter: null

@@ -1,0 +1,84 @@
+- .yellow(N) + BLSS to .loc(Tal Tal Peak):
+    coord: [4036,-314]
+- .yellow(Gold Rupee):
+    counter: .yellow(37)
+    icon: gloddy
+    notes: Magnesis chest in waterfall
+- .yellow(S>) + BLSS:
+    coord: [4462.625,840]
+    notes: Magnesis the other chest onto the one Link is standing on to open it without being grounded. Repeat again for the other chest.
+- Land on one chest
+- .yellow(Gold Rupee):
+    counter: .yellow(38)
+    icon: gloddy
+    notes: Left chest
+- .yellow(Gold Rupee):
+    counter: .yellow(39)
+    icon: gloddy
+    notes: Right chest
+    coord: [4470.25,840.25]
+- Drown/Save Warp:
+    color: red
+    icon: warp
+    icon-map: null
+    movements:
+      - to: [4036,-314]
+        warp: true
+- BLSS to .loc(Zora's Domain):
+    coord: [3335,-544.25]
+- _Npc::Zora::Male<King Dorephan>:
+    notes: Start fish drama
+- Activate .loc(Ne'ez Yohma):
+    icon: warp
+    icon-map: null
+- _Npc::Zora::Male<Sidon/Muzu>:
+    coord: [3303.25,-473.5]
+- .yellow(E) + .yellow(E>):
+    coord: [3596,-342.25]
+- Enter Ruta:
+    icon: enter-ruta
+    coord: [3656,-175]
+- Complete Divine Beast
+- .boss(Waterblight):
+    icon: blight
+- Mipha's Grace:
+    icon: grace
+- .yellow(N>) to .lime(King Dorephan):
+    color: yellow
+    movements:
+      - to: [3283.75,-431.875]
+        warp: true
+- Finish Fish Drama:
+    coord: [3335,-544.25]
+- .yellow(SW) + .yellow(<S) + .yellow(SW):
+    coord: [2754,-81]
+- _Npc::Zora::Female<Finley>:
+    notes: Start letter quest
+- Destroy letter:
+    coord: [2788,-293.5]
+- WB out and glide back:
+    coord: [2650,-380]
+- BLSS with letter:
+    coord: [2459.75,-277.25]
+- Drop on land:
+    notes: Keep letter smuggled
+    coord: [1763,-52.5]
+- _Npc<Sasan>:
+    notes: Give him the letter
+- Run into cave
+- .yellow(Gold Rupee):
+    counter: .yellow(40)
+    icon: gloddy
+    notes: Cave chest
+    coord: [1725,-88.5]
+- BLSS to .loc(Riverside Stable):
+   coord: [345.25,1092]
+- _Npc<Parcy>:
+    notes: Start The Royal Guard's Gear Quest
+    icon-map: null
+- .yellow(Gold Rupee):
+    counter: .yellow(41)
+    icon: gloddy
+    notes: Talk to Parcy to finish The Royal Guard's Gear Quest
+- _Warp::Shrine::MyahmAgana:
+    counter: null

@@ -1,0 +1,26 @@
+- BLSS to .loc(Satori Mountain)
+- _Equipment::Bow<Forest Dweller's Bow>:
+    coord: [-2343,682.5]
+    icon: chest
+- .yellow(N) + .yellow(N) midair
+- Enter .loc(Mogg Latan):
+    icon: shrine
+    icon-map: null
+    coord: [-2298.5,461]
+- .yellow(Gold Rupee):
+    counter: .yellow(19)
+    icon: gloddy
+    notes: WB to chest at the end
+- _Warp::Shrine::MoggLatan:
+    counter: null
+- BLSS
+- Enter .loc(Kah Okeo):
+    icon: shrine
+    icon-map: null
+    coord: [-4121,-410]
+- .yellow(Gold Rupee):
+    counter: .yellow(20)
+    icon: gloddy
+    notes: Square first to second chest
+- _Warp::Shrine::MoggLatan:
+    counter: null

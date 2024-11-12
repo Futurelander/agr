@@ -1,0 +1,35 @@
+- 1. Great Plateau:
+    - use: ./branches/plateau.yaml
+
+- 2. Eventide:
+    - use: ./branches/eventide.yaml
+
+- 3. Tarrey Town: #current
+    - use: ./branches/tarreytown.yaml
+
+- 4. Eldin:
+    - use: ./branches/eldin.yaml
+
+- 5. Gerudo:
+    - use: ./branches/gerudo.yaml
+
+- 6. Tabantha:
+    - use: ./branches/tabantha.yaml
+
+- 7. Hebra:
+    - use: ./branches/hebra.yaml
+
+- 8. Forgotten Temple:
+    - use: ./branches/forgottentemple.yaml
+
+- 9. Hyrule Castle:
+    - use: ./branches/castle.yaml
+
+- 10. Lanayru:
+    - use: ./branches/lanayru.yaml
+
+- 11. Faron: 
+    - use: ./branches/faron.yaml
+
+- 12. End:
+    - use: ./branches/end.yaml

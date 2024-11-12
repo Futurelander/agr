@@ -1,0 +1,16 @@
+- Run to .lime(Finley/Sasan):
+    color: lime
+    coord: [3264.25,-478.75]
+- .yellow(Gold Rupee):
+    counter: .yellow(49)
+    icon: gloddy
+    notes: Talk to Finley to finish letter quest
+- .yellow(S):
+    coord: [3262.75,-362]
+- .yellow(Gold Rupee):
+    counter: .yellow(50)
+    icon: gloddy
+    notes: Break rocks under waterfall
+- .yellow(GLODDIES):
+    icon: gloddies
+    icon-map: null

@@ -1,0 +1,62 @@
+- .yellow(N) + BLSS:
+    color: yellow
+    coord: [1377.125,-1261.125]
+- Land at rock pattern korok puzzle
+- .yellow(N) + .yellow(<N) + .yellow(NE):
+    coord: [1426.875,-1544.125]
+- .loc(Southern Mine):
+    coord: [1657.89, -1973.85]
+    icon: location
+    icon-map: null
+- _Npc::Goron<Greyson>:
+    notes: Send him to Tarrey Town
+- .yellow(N) + .yellow(N) + .yellow(NE):
+    coord: [1927,-2402]
+- .yellow(Gold Rupee):
+    counter: .yellow(6)
+    icon: gloddy
+    notes: Break rocks
+- .yellow(N) DT + .yellow(N) DT + .yellow(NE) midair:
+    coord: [1947.5,-3307.5]
+- .yellow(Gold Rupee):
+    counter: .yellow(7)
+    icon: gloddy
+    notes: Break rocks
+- .yellow(NW):
+    coord: [1680.25,-3704.75]
+- _Snap<Leviathan>:
+    notes: Leviathan Bones [1/3]
+- .yellow(E) + .yellow(E>) midair:
+    coord: [2086.5,-3572.5]
+- .yellow(<E) + .yellow(<E) turn:
+    coord: [2425.5,-3792.5]
+- .yellow(Gold Rupee):
+    counter: .yellow(8)
+    icon: gloddy
+    notes: Moblin camp chest
+- .yellow(<S):
+    coord: [2448.75,-3619]
+- BLSS:
+    coord: [2945,-3422]
+- Land at ruins:
+    coord: [3173,-3064]
+- .yellow(Gold Rupee):
+    counter: .yellow(8)
+    icon: gloddy
+    notes: Chest next to rubble
+    coord: [3139,-2820]
+- BLSS to .loc(Tarrey Town):
+    coord: [3319,-2802]
+- _Npc<Hudson>:
+    notes: Give him 20 wood and he will ask you to find Rhondson
+    coord: [3971.25,-1609]
+- .yellow(SW) to middle waterfall:
+    coord: [3773.5,-1200]
+- Place a cryo block:
+    coord: [3734.5,-1179.5]
+- .yellow(Gold Rupee):
+    counter: .yellow(9)
+    icon: gloddy
+    notes: Magnesis underwater chest
+- _Warp::Shrine::KehNamut:
+    counter: null

@@ -1,0 +1,25 @@
+- .yellow(N) + BLSS through .loc(Akkala Span):
+    color: lime
+    coord: [1875,795]
+- Save Chabi from Blue Bokoblin:
+    coord: [3470.00, 333.51, -1170.00]
+- Talk to her for .yellow(Monster Extract):
+    icon: material
+- .yellow(<E)
+- Activate .loc(Dah Hesho):
+    icon: warp
+    coord: [3900.25,-1302.75]
+- .yellow(N>) to .loc(Tarrey Town)
+- _Npc<Hudson>:
+    notes: Give him 10 wood and he will ask you to find Greyson
+    coord: [3971.25,-1609]
+- _Tod::Night:
+    icon-map: null
+- Place cryo blocks on the lake:
+    coord: [3981.75,-1735.25]
+- .yellow(Gold Rupee):
+    counter: .yellow(5)
+    icon: gloddy
+    notes: Magnesis underwater chest
+- _Warp::Shrine::TalohNaeg:
+    counter: null

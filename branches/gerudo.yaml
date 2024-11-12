@@ -1,0 +1,161 @@
+- .yellow(<W):
+    color: yellow
+    coord: [-1627,2090.5]
+- Get a horse:
+    coord: [-1564,2208]
+- Ride horse towards Gerudo:
+    coord: [-1776,2328]
+- _Npc<Zyle>:
+    notes: Give him horse
+    coord: [-1989,2168]
+    icon-map: null
+- .yellow(Gold Rupee):
+    counter: .yellow(10)
+    icon: gloddy
+    notes: No more horse :(
+    coord: [-2033.375,1874.125]
+- .yellow(N) + .yellow(<W) + .yellow(SW):
+    coord: [-2042,1717]
+- _Npc<Sesami>:
+    coord: [-2798,2242]
+    notes: Start Missing in Action Quest
+- .yellow(<E) + .yellow(N):
+    coord: [-2648.5,2226.5]
+    color: cyan
+- .yellow(<E) + .yellow(N>) turn:
+    coord: [-2616.5,2070]
+- Kill bokos with Ancient Arrows:
+    coord: [-2406,2001.5]
+- _Npc<Flaxel>:
+    coord: [-2164.875,1716.75]
+    notes: Missing in Action [1/4]
+- Glide to boko and kill it
+- _Npc<Canolo>:
+    coord: [-2188,1692]
+    notes: Missing in Action [2/4]
+- .yellow(E>) turn
+- Kill bokos
+- _Npc<Oliff>:
+    coord: [-2056.625,1739.5]
+    notes: Missing in Action [3/4]
+- .yellow(S) turn
+- Kill bokos
+- _Npc<Palme>:
+    coord: [-2060.875,1995.375]
+    notes: Missing in Action [4/4]
+- .yellow(E) + .yellow(W) midair:
+    coord: [-2208,2002.5]
+- BLSS to labyrinth:
+    coord: [-2587,2130.5]
+- .loc(South Lomei Labyrinth):
+    icon: location
+    icon-map: null
+    coord: [-2460,3007]
+- .yellow(Gold Rupee):
+    counter: .yellow(11)
+    icon: gloddy
+    notes: Drop down hole
+    coord: [-1827.6875,3404.9375]
+- Run out to big hallway:
+    coord: [-1795,3439.5]
+- Turn right to the stairs:
+    coord: [-1795,3342.5]
+- .yellow(N) + .yellow(<N) midair:
+    coord: [-1902.25,3237.5]
+- BLSS to .loc(Southern Oasis):
+    coord: [-3726,3619.75]
+- _Boss::Molduga:
+    counter: null
+    notes: Kill with ancient arrows
+- _Material<1 Molduga Guts>:
+    comment:
+    icon-map: null
+- BLSS to leviathan:
+    coord: [-4694,3695]
+- _Snap<Leviathan>:
+    notes: Leviathan Bones [2/3]
+- Enter .loc(Hawa Koth):
+    icon: shrine
+    icon-map: null
+    coord: [-4848,3775]
+- .yellow(Gold Rupee):
+    counter: .yellow(12)
+    icon: gloddy
+    notes: Use orb to get to side chest
+- _Warp::Shrine::HawaKoth:
+    color: red
+    counter: null
+- BLSS along the oob border
+- .yellow(Gold Rupee):
+    counter: .yellow(13)
+    icon: gloddy
+    notes: Chest at ruins
+    coord: [-4938,2159]
+- BLSS
+- _Npc<Benja>:
+    coord: [-3816.75,2819.5]
+    notes: Start Forbidden City Entry Quest
+- .yellow(<E) turn
+- _Npc::Gerudo<Rhondson>:
+    coord: [-3269.25,2585.25]
+    notes: Make it daytime if necessary
+- .yellow(S)
+- _Npc::Gerudo<Vilia>:
+    notes: Buy Vai outfit
+    coord: [-3259.27, 163.93, 2611.54]
+- .yellow(<E) turn
+- .yellow(Gold Rupee):
+    counter: .yellow(14)
+    icon: gloddy
+    notes: Talk to Sesami to finish Missing in Action Quest
+    coord: [-2798,2242]
+- .yellow(S) + BLSS to .loc(Gerudo Town):
+    color: lime
+- _Tod::Night
+- _Npc::Gerudo<Malena>:
+    coord: [-3867.25,2941.125]
+    notes: Start Medicinal Molduga Quest
+- .yellow(Gold Rupee):
+    counter: .yellow(15)
+    icon: gloddy
+    notes: Talk to Malena again to finish Medicinal Molduga Quest   
+- Buy 20 SA, 10 FA, 10 IA
+- .yellow(<N) turn:
+    coord: [-4132.125,2593]
+- Boko BTB:
+    coord: [-3776,1881.5]
+    notes: Same BTB from .link([All Dungeons]https://www.twitch.tv/videos/1623251015)
+- .yellow(N) to weapon stash:
+    coord: [-3793.5,1680]
+- _Equipment::Weapon<Edge of Duality>:
+    icon-map: null
+- .yellow(Gold Rupee):
+    counter: .yellow(16)
+    icon: gloddy
+    notes: Middle chest
+- .yellow(<N):
+    coord: [-3818,1481.5]
+- Kill a Yiga Footsoldier
+- _Equipment::Bow<Duplex Bow>:
+    icon-map: null
+- .loc(Yiga Clan Hideout):
+    icon: location
+    notes: Front entrance out of bounds .link([clip]https://twitter.com/futurelander/status/1761941714451800230?t=FGrpmxCeFrRNgWDdSjCBJg)
+- Run or .link([Oob BLSS]https://twitter.com/wintuhh_wipuhh/status/1762281255897612601)
+- In bounds .link([clip]https://x.com/wintuhh_wipuhh/status/1762281512408686879?s=20)
+- Burn drape with fire arrow
+- .yellow(Gold Rupee):
+    counter: .yellow(17)
+    icon: gloddy
+    notes: Left chest
+    coord: [-3530.25,1346.875]
+- .yellow(Gold Rupee):
+    counter: .yellow(18)
+    icon: gloddy
+    notes: Right chest
+    coord: [-3533.125,1360.75]
+- Kill a Yiga Blademaster:
+    notes: Ice arrow + EoD combo. Last hit must be EoD
+- Clear ragdoll
+- _Warp::Shrine::KehNamut:
+    counter: null

@@ -1,0 +1,71 @@
+- BLSS to .loc(Strock Lake):
+    color: cyan
+    coord: [-3388.5,-1173.75]
+- .yellow(Gold Rupee):
+    counter: .yellow(21)
+    icon: gloddy
+    notes: Place cryo blocks to underwater chest
+    coord: [-3374.25,-1244.75]
+- .yellow(N) + .yellow(N>) midair:
+    coord: [-3360.75,-1508]
+- .yellow(W>):
+    coord: [-3656.5,-1756]
+- Activate .loc(Akh Va'quot):
+    icon: warp
+- Glide to General Store:
+    coord: [-3646,-1818]
+    notes: Buy 1 wheat, 1 butter, 1 sugar
+- .yellow(<N) turn + .yellow(<N) turn + .yellow(N):
+    coord: [-4045,-3197.5]
+- .yellow(N>) + .yellow(<E):
+    coord: [-3807.5,-3516.5]
+- Open big door
+- _Snap<Leviathan>:
+    notes: Leviathan Bones [3/3]
+- .yellow(E>) + .yellow(<S):
+    coord: [-3732,-3520]
+- .yellow(<S) turn + .yellow(<S) midair:
+    coord: [-3659.5,-3304.5]
+- Moblin camp: 
+    notes: Kill all enemies with ancient arrows
+    coord: [-3359,-2895]
+- .yellow(Gold Rupee):
+    counter: .yellow(22)
+    icon: gloddy
+    notes: Place cryo blocks to underwater chest
+- .yellow(<E) to updraft:
+    coord: [-3002,-2951]
+- .yellow(E) midair at the top of updraft
+- Kill blizzrobe:
+    notes: Shoot with fire arrow
+    coord: [-2896.5,-2962]
+- _Equipment::Weapon<Blizzard Rod>
+- .yellow(<N) + .yellow(<E) turn:
+    coord: [-2947,-3277]
+- .yellow(Gold Rupee):
+    counter: .yellow(23)
+    icon: gloddy
+    notes: Break rocks
+    coord: [-2311,-3572]
+- BLSS to .loc(North Lomei Labyrinth)
+- .yellow(Gold Rupee):
+    counter: .yellow(24)
+    icon: gloddy
+    notes: Drop down
+    coord: [-790,-3558.5]
+- .yellow(W) + BLSS
+- .loc(Korok Forest):
+    icon: location
+    icon-map: null
+    coord: [432.25,-2110]
+- Activate first MS cutscene
+- _Npc<Kula>:
+    coord: [419,-2135.25]
+    notes: Start A Freezing Rod Quest
+    icon-map: null
+- .yellow(Gold Rupee):
+    counter: .yellow(25)
+    icon: gloddy
+    notes: Received from completing A Freezing Rod Quest
+- _Warp::Shrine::AkhVaquot:
+    counter: null

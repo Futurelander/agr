@@ -1,0 +1,59 @@
+#dont forget to change the stuff in lanayru
+
+- Run to kids playing tag:
+    coord: [3376,2142]
+- _Npc<Nebb>:
+    notes: Start Weapon Connoisseur
+- .yellow(Gold Rupee):
+    counter: .yellow(42)
+    icon: gloddy
+    notes: Talk to Nebb to finish the Weapon Connoisseur Quest
+- .yellow(S) + .yellow(<S) + .yellow(S>):
+    coord: [3420,2392]
+- BLSS to .boss(Black Hinox):
+    coord: [3356,2539]
+- Wake him up:
+    coord: [2421.25,2779]
+- .yellow(Gold Rupee):
+    counter: .yellow(43)
+    icon: gloddy
+    notes: Magnesis buried chest underneath hinox
+- BLSS:
+    coord: [1697.25,3053.5]
+- .yellow(Gold Rupee):
+    counter: .yellow(44)
+    icon: gloddy
+    notes: West chest next to boulder
+- .yellow(W) + .yellow(NW):
+    coord: [886,2410]
+- .yellow(Gold Rupee):
+    counter: .yellow(45)
+    icon: gloddy
+    notes: Chest near moblin
+- .yellow(S>) turn + .yellow(S>) midair:
+    coord: [694,2956]
+- .yellow(Gold Rupee):
+    counter: .yellow(46)
+    icon: gloddy
+    notes: Magnesis underwater chest
+- Place a cryo block and climb it
+- .yellow(<W) + .yellow(SW) midair:
+    coord: [-143,3401.5]
+- .yellow(Gold Rupee):
+    counter: .yellow(47)
+    icon: gloddy
+    notes: Magnesis underwater chest from ledge
+    coord: [-133,3405.25]
+- .yellow(E>) + .yellow(E>) midair
+- .yellow(E>):
+    coord: [523,3525.5]
+- Enter .loc(Ka'o Makagh):
+    icon: shrine
+    icon-map: null
+- Square first WB
+- .yellow(Gold Rupee):
+    counter: .yellow(48)
+    icon: gloddy
+    notes: Chest behind disguised mag block
+- _Warp::Shrine::NeezYohma:
+    counter: null

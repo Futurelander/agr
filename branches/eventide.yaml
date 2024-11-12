@@ -1,0 +1,104 @@
+- BLSS to .loc(Hyrule Castle):
+    color: red
+- Land at .loc(Observation Room):
+    coord: [-252.19, 210.48, -741.07]
+- Drop .yellow(Traveler's Bow)
+- Grab 2 bundles of .yellow(5 Arrow):
+    icon: material
+    icon-map: null
+- Hylian Crest arrows:
+    notes: Need 17 Arrows total
+    icon: material
+    icon-map: null
+- _Equipment::Bow<Royal Bow>:
+    icon-map: null
+- _Chest<3 Ancient Arrow>
+- .yellow(E) + .yellow(N) midair to pillar:
+    coord: [-108.5,-778.5]
+- BLSS to .loc(Kakariko Fairy Fountain):
+    notes: Pick up 3 nightshade, 2 silent princesses, 1 fairy, 2 wood
+    icon: location
+    coord: [1975,842.75]
+- .yellow(SW) to .loc(Armor Shop):
+    coord: [1854,981]
+    icon-map: location
+- Do .link([IST]https://ist.itntpiston.app/?c=H4sIAAAAAAACA52SQVKFMAyG9z1FZjwBPB1P4AlcuHBcFBpp55WmpkUGT2%2BAygM2Oi77k%2Fz5Qn4XXHbauy%2BECjIjNqxDa5eH%2FkSPnNJIbF7xY3DxTfTk0XRodd8jy5Np0h4aGreKRwjEvYia%2BSZfQHwdhryo0hgpe2dET9G1U8QYxe8CdvJOh2SZqJdn4wcMrrM5WW0QakjOiwlEdqHFlMToXTueZpKhmaTghcgsmDoj3ANxI69ORiGrheWwgbqDbAvQiiCt6%2FAKdoMpQMc0BKNGl%2B3MsaOuj9T179Q1jIKpGkZ9hQchopwERTyvQ5Svm%2FFmebOTOtfJL0YhR%2BgwQ0t9r4OBBj2NalaqA1915KtOfP9YqZBfCnnh%2FmWOCMvWhimW86skIVOoM2jvj92zcOqfpXE97%2BHouxSu5rv0whLfEm7Y0n3IwIb%2Fh67OnLrKIkNYw3WyUCw30UY9W6L5LEv6162fdN4W%2BdmslH8DYtWeVpYDAAA%3D)
+- Sell all Rubies
+- Run to Cooking Pot
+- _Equipment::Shield<Pot Lid>:
+    coord: [1794.5,1014]
+- _Npc::Sheika::Female<Impa>:
+    coord: [1775,984.25]
+- .yellow(N>)
+- Activate .loc(Ta'loh Naeg):
+    icon: warp
+    coord: [1841.25,891.1875]
+- .yellow(N) + BLSS:
+    coord: [1870.75,813] 
+- Land at .loc(Link's House):
+    coord: [3301.5,2299]
+    icon: location
+- _Npc<Bolson>:
+    icon-map: null
+- Grab 4 Apples:
+    icon: material
+    icon-map: null
+    notes: Do while waiting for Bolson to sit down
+- Buy Link's House
+- _Npc<Hudson>:
+    coord: [3331,2283.5]
+    notes: Start Tarrey Town Quest
+- Activate .loc(Myahm Agana):
+    icon: warp
+    coord: [3387.75,2215.25]
+- Smuggle Blue Flame:
+    coord: [3438,1970]
+- .yellow(Camera):
+    icon: camera
+    coord: [3779,2115.5]
+- .yellow(S) DT:
+    coord: [3773.34, 100.52, 2647.44] 
+- .yellow(Gold Rupee):
+    counter: .yellow(1)
+    icon: gloddy
+    notes: Open Kass Quest chest
+- .yellow(SE) to island:
+    coord: [4011.25,2993.75]
+- _Equipment::Weapon<Korok Leaf>:
+    notes: Use it to ride boat
+- Sail .yellow(<S):
+    coord: [4239.13, 98.82, 3339.35]
+    notes: Mark .link([these points]https://cdn.discordapp.com/attachments/1040321935822835722/1304252558100926567/Screenshot_224.png?ex=672eb759&is=672d65d9&hm=a5ba047660de3684e01c048add3756a62351ac228cb10f305cb1f906a640ec92&) on your map to find the next 2 Gold Rupees
+- .yellow(Gold Rupee):
+    counter: .yellow(2)
+    icon: gloddy
+    notes: Magnesis underwater chest
+- Sail .yellow(S>):
+    coord: [4149.22, 98.88, 3727.95]
+- .yellow(Gold Rupee):
+    counter: .yellow(3)
+    icon: gloddy
+    notes: Magnesis underwater chest
+- .yellow(<E):
+    notes: Land in shallow water 
+    coord: [4448.5,3663]
+- .loc(Eventide Island):
+    icon: location
+    notes: Drop 1 arrow, royal bow, pot lid, and tree branch. Drop 5 fairies immediately before starting the quest.
+- Run back and pick everything up
+- Return all 3 orbs:
+    notes: Drop royal bow before the last orb goes in
+- Pick up .yellow(Royal Bow):
+    icon: bow
+    coord: [4669,3740]
+- .yellow(E)
+- Enter .loc(Korgu Chideh):
+    icon: shrine
+    icon-map: null
+    coord: [4738,3759]
+- .yellow(Gold Rupee):
+    counter: .yellow(4)
+    icon: gloddy
+    notes: Blessing chest
+- _Warp::Shrine::TalohNaeg:
+    counter: null
