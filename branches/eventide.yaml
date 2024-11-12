@@ -16,13 +16,13 @@
 - .yellow(E) + .yellow(N) midair to pillar:
     coord: [-108.5,-778.5]
 - BLSS to .loc(Kakariko Fairy Fountain):
-    notes: Pick up 3 nightshade, 2 silent princesses, 1 fairy, 2 wood
+    notes: Pick up 3 nightshade, 1 fairy, 2 wood
     icon: location
     coord: [1975,842.75]
 - .yellow(SW) to .loc(Armor Shop):
     coord: [1854,981]
     icon-map: location
-- Do .link([IST]https://ist.itntpiston.app/?c=H4sIAAAAAAACA52SQVKFMAyG9z1FZjwBPB1P4AlcuHBcFBpp55WmpkUGT2%2BAygM2Oi77k%2Fz5Qn4XXHbauy%2BECjIjNqxDa5eH%2FkSPnNJIbF7xY3DxTfTk0XRodd8jy5Np0h4aGreKRwjEvYia%2BSZfQHwdhryo0hgpe2dET9G1U8QYxe8CdvJOh2SZqJdn4wcMrrM5WW0QakjOiwlEdqHFlMToXTueZpKhmaTghcgsmDoj3ANxI69ORiGrheWwgbqDbAvQiiCt6%2FAKdoMpQMc0BKNGl%2B3MsaOuj9T179Q1jIKpGkZ9hQchopwERTyvQ5Svm%2FFmebOTOtfJL0YhR%2BgwQ0t9r4OBBj2NalaqA1915KtOfP9YqZBfCnnh%2FmWOCMvWhimW86skIVOoM2jvj92zcOqfpXE97%2BHouxSu5rv0whLfEm7Y0n3IwIb%2Fh67OnLrKIkNYw3WyUCw30UY9W6L5LEv6162fdN4W%2BdmslH8DYtWeVpYDAAA%3D)
+- Do .link([IST]https://ist.itntpiston.app/?c=H4sIAAAAAAACA52STU7EMAyF9zmFJU7QDogTcAIWLBALtzFNNGkcnJSqnB73h850NiOxzKv9%2FLl%2BPvriMfgfggqKEDWCsXXLA78pkOQ8sth3%2Bhp8%2BlA9B7IdOex7En0KTxig4XGveIbI0quIIhf5BOrrKZZF1cbEJXirek6%2BnRKlpH4ncFPwGLMT5l6fTRgo%2Bs6V7NAS1JB9UBNI4mNLOavRJ3qZZpKhmbTgjdkumFgIHoGl0Veno0jMwnLYwDxAcRvQiqCt6%2FAKrgZzhE54iNaMvriZ44q6PlLX96lrGBXTNEJ4hicl4pIVRT3PQ9Kvu%2FFuebHTOt%2FpLyYlJ%2BioQMt9j9FCQ4FHMyvVga868lU3fP9YaSM%2FbeQb9505KixbW%2BG0nd9kDZkhLIAhHLtn4aZ%2Flsb1vIejX6VwNb9KLyzx3cINe7oPGdjx%2F9O1LTLENVw3Fkb0JmjNq2Oez7Kkf936Bcu%2ByN9mW%2FkvxQgSgJYDAAA%3D)
 - Sell all Rubies
 - Run to Cooking Pot
 - _Equipment::Shield<Pot Lid>:
