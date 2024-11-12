@@ -16,7 +16,7 @@
 - .yellow(E) + .yellow(N) midair to pillar:
     coord: [-108.5,-778.5]
 - BLSS to .loc(Kakariko Fairy Fountain):
-    notes: Pick up 3 nightshade, 1 fairy, 2 wood
+    notes: Pick up 3 nightshade, 2 silent princess, 1 fairy, 2 wood
     icon: location
     coord: [1975,842.75]
 - .yellow(SW) to .loc(Armor Shop):

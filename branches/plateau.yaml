@@ -25,6 +25,8 @@
 - _Shrine::JaBaij:
     counter: null
 - BLSS to Tower
+- _Equipment::Weapon<Traveler's Sword>:
+    notes: Kill tower boko with arrows
 - _Tower::GreatPlateau:
     counter: null
 - WB + lagstop FDC to Magnesis:
