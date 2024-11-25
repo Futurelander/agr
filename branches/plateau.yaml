@@ -27,6 +27,7 @@
 - BLSS to Tower
 - _Equipment::Weapon<Traveler's Sword>:
     notes: Kill tower boko with arrows
+- Grab 5 Arrows if they drop
 - _Tower::GreatPlateau:
     counter: null
 - WB + lagstop FDC to Magnesis:
