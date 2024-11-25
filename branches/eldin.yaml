@@ -10,7 +10,7 @@
     icon-map: null
 - _Npc::Goron<Greyson>:
     notes: Send him to Tarrey Town
-- .yellow(N) + .yellow(N) + .yellow(NE):
+- .yellow(N) + .yellow(N) + .yellow(N):
     coord: [1927,-2402]
 - .yellow(Gold Rupee):
     counter: .yellow(6)

@@ -6,7 +6,7 @@
     icon: gloddy
     notes: Bottom of Flight Range
 - Fly up using updraft
-- .yellow(E) + .yellow(<E):
+- .yellow(E) + .yellow(E>):
     coord: [-3461,-2238]
 - .yellow(Gold Rupee):
     counter: .yellow(27)

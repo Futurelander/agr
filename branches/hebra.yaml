@@ -32,7 +32,7 @@
 - .yellow(Gold Rupee):
     counter: .yellow(22)
     icon: gloddy
-    notes: Place cryo blocks to underwater chest
+    notes: Enemy camp chest
 - .yellow(<E) to updraft:
     coord: [-3002,-2951]
 - .yellow(E) midair at the top of updraft

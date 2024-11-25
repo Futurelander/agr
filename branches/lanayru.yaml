@@ -50,7 +50,7 @@
         warp: true
 - Finish Fish Drama:
     coord: [3335,-544.25]
-- .yellow(SW) + .yellow(<S) + .yellow(SW):
+- .yellow(SW) + .yellow(<W) + .yellow(SW):
     coord: [2754,-81]
 - _Npc::Zora::Female<Finley>:
     notes: Start letter quest
